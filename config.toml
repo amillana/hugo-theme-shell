@@ -69,10 +69,14 @@ ignoreErrors = ["error-remote-getjson"]
   # description = "/description.md"
   # Note: and put the description.md in /content/description.md
 description = """
+
       Hello, I'm Audrey Millana.
       People call me Ami.
 
       Just an artist with a computer.
+
+      Join the discord for additional information on how to join our game servers.
+      
     """
 
   [Params.Tree]
