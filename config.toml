@@ -68,7 +68,12 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: If you want to use a Markdown file, you can use the following
   # description = "/description.md"
   # Note: and put the description.md in /content/description.md
-  description = "/description.md"
+description = """
+      Hello, I'm Audrey Millana.
+      People call me Ami.
+
+      Just an artist with a computer.
+    """
 
   [Params.Tree]
   use = true
