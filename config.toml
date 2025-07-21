@@ -85,7 +85,7 @@ description = """
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["GitHub", "https://github.com/amillana"],
-    ["Discord", "https://discord.gg/xNnDmKxv"],
+    ["Discord", "https://discord.gg/9D7GvUqySn"],
   ]
 
 [module]
